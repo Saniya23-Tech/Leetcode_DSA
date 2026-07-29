@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0090-subsets-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
@@ -75,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
