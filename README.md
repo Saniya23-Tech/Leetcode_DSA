@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0509-fibonacci-number) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
