@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -150,9 +152,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0011-container-with-most-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
