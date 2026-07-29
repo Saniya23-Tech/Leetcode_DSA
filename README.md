@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0051-n-queens) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
