@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 ## Backtracking
