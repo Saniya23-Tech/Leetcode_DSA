@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0037-sudoku-solver) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0125-valid-palindrome) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
