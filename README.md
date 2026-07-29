@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0051-n-queens) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0138-copy-list-with-random-pointer) |
