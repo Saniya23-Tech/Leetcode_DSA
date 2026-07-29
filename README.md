@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0051-n-queens) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Breadth-First Search
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
