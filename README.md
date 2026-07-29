@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0443-string-compression) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0131-palindrome-partitioning) |
+| [0443-string-compression](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
