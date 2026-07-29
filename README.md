@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0090-subsets-ii) |
+| [0238-product-of-array-except-self](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
