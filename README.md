@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0704-binary-search) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Breadth-First Search
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -231,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
