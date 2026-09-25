@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0229-majority-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0229-majority-element-ii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
 | ------- |
