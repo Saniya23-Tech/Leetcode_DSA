@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0994-rotting-oranges) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2596-check-knight-tour-configuration](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0229-majority-element-ii) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Matrix
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0455-assign-cookies) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
