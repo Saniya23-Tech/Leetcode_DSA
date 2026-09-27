@@ -5,16 +5,15 @@ public:
         if (s.length() != t.length())
             return false;
 
-        unordered_map<char, int> mp;
+        int freq[26] = {0};
 
-        for (char ch : s)
-            mp[ch]++;
+        for (int i = 0; i < s.length(); i++) {
+            freq[s[i] - 'a']++;
+            freq[t[i] - 'a']--;
+        }
 
-        for (char ch : t)
-            mp[ch]--;
-
-        for (auto x : mp) {
-            if (x.second != 0)
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] != 0)
                 return false;
         }
 
