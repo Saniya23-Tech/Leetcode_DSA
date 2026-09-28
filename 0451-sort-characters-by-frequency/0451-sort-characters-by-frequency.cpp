@@ -1,35 +1,33 @@
 class Solution {
 public:
     string frequencySort(string s) {
-
-        unordered_map<char, int> mp;
-
+        
+        // Fixed array — 256 ASCII characters ke liye
+        int freq[256] = {0};
+        
         for(char ch : s) {
-            mp[ch]++;
+            freq[ch]++;
         }
-
-        vector<pair<char, int>> v;
-
-        for(auto x : mp) {
-            v.push_back({x.first, x.second});
-        }
-
-        sort(v.begin(), v.end(),
-            [](pair<char, int> a, pair<char, int> b) {
-                return a.second > b.second;
-            }
-        );
-
+        
         string ans = "";
-
-        for(auto x : v) {
-            int freq = x.second;
-
-            while(freq--) {
-                ans += x.first;
+        
+        while(ans.size() < s.size()) {
+            int maxIdx = 0;
+            int maxFreq = 0;
+            
+            for(int i = 0; i < 256; i++) {
+                if(freq[i] > maxFreq) {
+                    maxFreq = freq[i];
+                    maxIdx = i;
+                }
             }
+            
+            if(maxFreq == 0) break;
+            
+            ans += string(maxFreq, (char)maxIdx);
+            freq[maxIdx] = 0;  // reset
         }
-
+        
         return ans;
     }
 };
