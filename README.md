@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
