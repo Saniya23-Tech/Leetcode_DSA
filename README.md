@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0994-rotting-oranges) |
+| [1002-find-common-characters](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1002-find-common-characters) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2596-check-knight-tour-configuration](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1002-find-common-characters](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1002-find-common-characters) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1002-find-common-characters](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1002-find-common-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
