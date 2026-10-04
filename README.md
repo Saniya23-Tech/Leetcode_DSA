@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0912-sort-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -329,8 +332,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
