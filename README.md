@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
