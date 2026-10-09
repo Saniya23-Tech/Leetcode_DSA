@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1002-find-common-characters) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
