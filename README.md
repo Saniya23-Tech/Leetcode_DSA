@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Memoization
