@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Breadth-First Search
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0541-reverse-string-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0541-reverse-string-ii) |
 | [1002-find-common-characters](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1002-find-common-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
