@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0567-permutation-in-string) |
+| [0784-letter-case-permutation](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0784-letter-case-permutation) |
 | [1002-find-common-characters](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1002-find-common-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0131-palindrome-partitioning) |
+| [0784-letter-case-permutation](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0784-letter-case-permutation](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0784-letter-case-permutation) |
 ## Binary Search
 |  |
 | ------- |
