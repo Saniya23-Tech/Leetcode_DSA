@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
+| [0526-beautiful-arrangement](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0733-flood-fill) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+| [0526-beautiful-arrangement](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0526-beautiful-arrangement) |
 ## Backtracking
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0131-palindrome-partitioning) |
+| [0526-beautiful-arrangement](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0526-beautiful-arrangement](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0784-letter-case-permutation) |
 ## Binary Search
 |  |
@@ -385,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0020-valid-parentheses) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
