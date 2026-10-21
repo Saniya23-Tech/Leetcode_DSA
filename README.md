@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [1002-find-common-characters](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1002-find-common-characters) |
+| [1079-letter-tile-possibilities](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1079-letter-tile-possibilities) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0784-letter-case-permutation](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0784-letter-case-permutation) |
 | [1002-find-common-characters](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1002-find-common-characters) |
+| [1079-letter-tile-possibilities](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1079-letter-tile-possibilities) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0526-beautiful-arrangement](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0784-letter-case-permutation) |
+| [1079-letter-tile-possibilities](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1079-letter-tile-possibilities) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1079-letter-tile-possibilities](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1079-letter-tile-possibilities) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
