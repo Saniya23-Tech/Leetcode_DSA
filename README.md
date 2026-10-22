@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0133-clone-graph](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0210-course-schedule-ii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0210-course-schedule-ii) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
