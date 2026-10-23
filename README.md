@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [2596-check-knight-tour-configuration](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -344,12 +345,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0200-number-of-islands) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0210-course-schedule-ii) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -401,4 +404,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0526-beautiful-arrangement) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
