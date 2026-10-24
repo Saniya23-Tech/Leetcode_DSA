@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0210-course-schedule-ii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0547-number-of-provinces](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0733-flood-fill) |
 | [2596-check-knight-tour-configuration](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Doubly-Linked List
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
