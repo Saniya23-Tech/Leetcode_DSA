@@ -1,67 +1,40 @@
 class Solution {
-public:
+    public:
 
-   vector<int> par, rank;
-   int find(int x) {
-    if (par[x] == x) return x;
-    return par[x] = find(par[x]); //path compresssion 
-   }
-
-    //return true if it is union(no cycle) 
-    bool unionByRank(int a , int b) {
-        int parA = find(a);
-        int parB = find(b);
-
-        if(parA == parB) return false; //cycle 
-
-        if(rank[parA] == rank[parB]) {
-            par[parB] = parA;
-            rank[parA]++;
-        } else if( rank[parA] > rank[parB]) {
-            par[parB] = parA;
-        } else {
-            par[parA] = parB;
-        }
-        return true;
-    } 
-   
-
-    int minCostConnectPoints(vector<vector<int>>& points) {
-        int n = points.size();
-
-        //DSU i it 
-        par.resize(n);
-        rank.assign( n , 0);
-        for(int i=0; i<n; i++ ) {
-            par[i] = i;
-        }
-        vector<array<int , 3>> edges; // {weight, u, v}
-        //To create the edge between each pair(manhattan distance)
-
-        for(int i=0; i< n ; i++) {
-            for(int j=i+1; j <n; j++) {
-                int dist = abs(points[i][0] - points[j][0]) + abs(points[i][1] - points[j][1]);
-
-                edges.push_back({dist, i, j});
-            }
-        }
-
-        //sorting edges by weight 
-        sort(edges.begin() ,edges.end());
-
-
-        //kruskal's
-
-        int totalCost =0, edgesUsed =0;
-        for(auto& [wt, u, v] : edges) {
-            if(unionByRank(u,v)) {
-                totalCost +=wt;
-                edgesUsed++;
-                if(edgesUsed == n-1) break;
-            }
-        }
-
-        return totalCost;
-        
+    int manDist(vector<vector<int>> &points, int p1, int p2) {
+        return abs(points[p1][0] - points[p2][0]) + abs(points[p1][1] - points[p2][1]);
     }
+
+
+    int minCostConnectPoints(vector<vector<int>> &points) {
+        int n = points.size();
+        //PQ-> minheap
+        priority_queue<pair<int , int>, vector<pair<int, int>>, greater<pair<int, int>> >pq;
+
+        vector<bool> mstSet(n, false);
+        int mstCost = 0;
+        pq.push({0, 0}); //{wt, node}
+
+        while(pq.size() > 0) {
+            auto p = pq.top();
+            int wt = p.first;
+            int node= p.second;
+
+            pq.pop();
+
+            if(mstSet[node] == true) continue;
+            mstSet[node] = true;
+            mstCost += wt;
+
+
+            for(int i=0; i<n; i++) {
+                if(!mstSet[i]) {
+              int dist = manDist(points, node, i);
+              pq.push({dist, i});
+                }
+            }
+        }
+        return mstCost; //mincost
+    }
+
 };
