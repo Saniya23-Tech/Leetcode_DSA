@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0547-number-of-provinces](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2596-check-knight-tour-configuration](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Doubly-Linked List
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0526-beautiful-arrangement) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
 | ------- |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -424,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
