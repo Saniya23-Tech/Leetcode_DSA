@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0133-clone-graph) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0058-length-of-last-word) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0172-factorial-trailing-zeroes) |
