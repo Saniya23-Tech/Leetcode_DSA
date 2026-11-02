@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0207-course-schedule) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0207-course-schedule) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/1584-min-cost-to-connect-all-points) |
