@@ -1,0 +1,52 @@
+class Solution {
+public:
+    void dfs(int r, int c, vector<vector<char>>& board) {
+        int m = board.size();
+        int n= board[0].size();
+
+        if(r <0 || c <0 || r >=m || c >=n || board[r][c] != 'O') 
+        return;
+
+        board[r][c] = '#';
+
+        dfs(r+1 , c, board);
+        dfs(r-1, c, board);
+        dfs(r, c+1, board);
+        dfs(r, c-1, board);
+        
+    }
+
+    void solve(vector<vector<char>> &board) {
+        int m = board.size();
+        int n= board[0].size();
+
+        //checking the Top and Bottom Row 
+        for ( int j=0; j <n; j++) {
+            if(board[0][j] == 'O')
+            dfs(0, j, board);
+            if(board[m-1][j] == 'O')
+            dfs(m-1, j, board);
+        }
+
+
+        //left and Right Column
+
+        for(int i=0; i<m; i++) {
+            if(board[i][0] == 'O') 
+            dfs(i, 0, board);
+
+            if(board[i][n-1] == 'O') 
+            dfs(i, n-1, board);
+        }
+
+        for(int i=0; i<m; i++) {
+            for(int j=0; j<n; j++) {
+                if(board[i][j] == 'O')
+                board[i][j] = 'X';
+             else if(board[i][j] == '#')
+                board[i][j] = 'O';
+            }
+        }
+
+    }
+};
