@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0263-ugly-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saniya23-Tech/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Memoization
